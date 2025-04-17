@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Devin/Documents/GitHub/cs415-final-project/Dungeons_and_Dropbeats/Content/EOL_Content/Blueprints/MainCharacter.uasset",
+				"C:/Users/Devin/Documents/GitHub/cs415-final-project/Dungeons_and_Dropbeats/Content/EOL_Content/Maps/Map_Playground.umap",
+				"C:/Users/Devin/Documents/GitHub/cs415-final-project/Dungeons_and_Dropbeats/Content/EOL_Content/Blueprints/ArrayContainer.uasset"
+			]
+		}
+	]
+}
