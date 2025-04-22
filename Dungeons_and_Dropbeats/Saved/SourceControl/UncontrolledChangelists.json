@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jyan3/Documents/Unreal Projects/cs415-final-project/Dungeons_and_Dropbeats/Content/EOL_Content/UI/WBP_UI_PlayerHealth.uasset",
+				"C:/Users/jyan3/Documents/Unreal Projects/cs415-final-project/Dungeons_and_Dropbeats/Content/EOL_Content/UI/WBP_Base_UI.uasset",
+				"C:/Users/jyan3/Documents/Unreal Projects/cs415-final-project/Dungeons_and_Dropbeats/Content/EOL_Content/Characters/Bot/BP_Bot.uasset",
+				"C:/Users/jyan3/Documents/Unreal Projects/cs415-final-project/Dungeons_and_Dropbeats/Content/EOL_Content/UI/WBP_Notes.uasset",
+				"C:/Users/jyan3/Documents/Unreal Projects/cs415-final-project/Dungeons_and_Dropbeats/Content/EOL_Content/UI/WBP_Note1.uasset",
+				"C:/Users/jyan3/Documents/Unreal Projects/cs415-final-project/Dungeons_and_Dropbeats/Content/EOL_Content/UI/WBP_Player_Note1.uasset",
+				"C:/Users/jyan3/Documents/Unreal Projects/cs415-final-project/Dungeons_and_Dropbeats/Content/EOL_Content/UI/WBP_Player_Note2.uasset",
+				"C:/Users/jyan3/Documents/Unreal Projects/cs415-final-project/Dungeons_and_Dropbeats/Content/EOL_Content/UI/WBP_Player_Note3.uasset",
+				"C:/Users/jyan3/Documents/Unreal Projects/cs415-final-project/Dungeons_and_Dropbeats/Content/EOL_Content/UI/WBP_Player_Note4.uasset",
+				"C:/Users/jyan3/Documents/Unreal Projects/cs415-final-project/Dungeons_and_Dropbeats/Content/EOL_Content/UI/WBP_Enemy_Note1.uasset",
+				"C:/Users/jyan3/Documents/Unreal Projects/cs415-final-project/Dungeons_and_Dropbeats/Content/EOL_Content/UI/WBP_Enemy_Note3.uasset",
+				"C:/Users/jyan3/Documents/Unreal Projects/cs415-final-project/Dungeons_and_Dropbeats/Content/EOL_Content/UI/WBP_Enemy_Note4.uasset",
+				"C:/Users/jyan3/Documents/Unreal Projects/cs415-final-project/Dungeons_and_Dropbeats/Content/EOL_Content/UI/WBP_Enemy_Note2.uasset",
+				"C:/Users/jyan3/Documents/Unreal Projects/cs415-final-project/Dungeons_and_Dropbeats/Content/EOL_Content/UI/WBP_Win.uasset",
+				"C:/Users/jyan3/Documents/Unreal Projects/cs415-final-project/Dungeons_and_Dropbeats/Content/EOL_Content/UI/WBP_RestartScreen.uasset",
+				"C:/Users/jyan3/Documents/Unreal Projects/cs415-final-project/Dungeons_and_Dropbeats/Content/EOL_Content/Maps/Map_Playground.umap",
+				"C:/Users/jyan3/Documents/Unreal Projects/cs415-final-project/Dungeons_and_Dropbeats/Content/EOL_Content/UI/measure.uasset",
+				"C:/Users/jyan3/Documents/Unreal Projects/cs415-final-project/Dungeons_and_Dropbeats/Content/EOL_Content/UI/note1.uasset",
+				"C:/Users/jyan3/Documents/Unreal Projects/cs415-final-project/Dungeons_and_Dropbeats/Content/EOL_Content/UI/note2.uasset",
+				"C:/Users/jyan3/Documents/Unreal Projects/cs415-final-project/Dungeons_and_Dropbeats/Content/EOL_Content/UI/note3.uasset",
+				"C:/Users/jyan3/Documents/Unreal Projects/cs415-final-project/Dungeons_and_Dropbeats/Content/EOL_Content/UI/note4.uasset"
+			]
+		}
+	]
+}
